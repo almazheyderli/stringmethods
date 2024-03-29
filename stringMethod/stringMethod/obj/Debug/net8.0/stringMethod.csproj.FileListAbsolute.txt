@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\bin\Debug\net8.0\stringMethod.exe
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\bin\Debug\net8.0\stringMethod.deps.json
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\bin\Debug\net8.0\stringMethod.runtimeconfig.json
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\bin\Debug\net8.0\stringMethod.dll
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\bin\Debug\net8.0\stringMethod.pdb
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.AssemblyInfo.cs
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.sourcelink.json
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.dll
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\refint\stringMethod.dll
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.pdb
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\stringMethod.genruntimeconfig.cache
+C:\Users\User\Desktop\stringarray\stringMethod\stringMethod\obj\Debug\net8.0\ref\stringMethod.dll

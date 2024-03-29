@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWehFnLCz/itEFhBMbJSGzL8ftfru8tjrT4gZzCpyrH4o9LFWfKURXSXZ6FGPTtEEDeaJgjzndS6TcVjj2OArQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\stringarray\\stringMethod\\stringMethod\\stringMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
